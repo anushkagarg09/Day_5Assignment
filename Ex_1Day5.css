@@ -1,0 +1,12 @@
+ div.knowMoreBtn:hover {
+ background-color: rgb(205, 129, 36);
+ }
+ a:visited {
+ color: white;
+ }
+ a:active {
+ color: rgb(0, 0, 0);
+ }
+ a:link {
+ color: gray;
+ }
